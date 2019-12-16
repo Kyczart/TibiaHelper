@@ -741,6 +741,7 @@ namespace TibiaHelper
 
 
 
+
         private void checkboxMana_CheckStateChanged(object sender, EventArgs e)
         {
 
